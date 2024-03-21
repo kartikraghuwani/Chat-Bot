@@ -8,7 +8,7 @@ huggingface-hub==0.14.1
 InstructorEmbedding==1.0.1
 sentence-transformers==2.2.2
 streamlit-chat==0.1.1
-docx2txt
+docx2txt==0.8
 langchain==0.1.4
 langchain_community==0.0.16
 langchain_core==0.1.17
