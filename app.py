@@ -83,7 +83,7 @@ def main():
             AIMessage(content="Hello, I am a bot. How can I help you?"),
         ]   
 
-    st.header("Chat with your multiple files:")
+    st.header("Chat Bot")
 
     # Initialize variables to hold uploaded files
     other_files = []
